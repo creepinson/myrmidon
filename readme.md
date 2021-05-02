@@ -17,7 +17,7 @@ I've been looking for something like this for a while since I started using i3. 
 Myrmidon currently depends on:
 
 - [Rofi](https://github.com/DaveDavenport/rofi)
-- [jc](https://github.com/kellyjonbrazil/jc)
+- [Dat](https://github.com/flowtr/dat)
 
 ## Installation / defining tasks
 
